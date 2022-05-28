@@ -1,8 +1,7 @@
 ## Olá, eu sou AndreySilvaa 👋
 
-- 🌱 Estudando React.js
-- 👯 Busco colaborar com a comunidade de desenvolvimento web
-- 😄 Pronouns: ele/dele
+- 📚💻 Estudando React.js
+- 👯 Busco colaborar com a comunidade de desenvolvimento web 
 
 <div align="center">
   <a href="https://github.com/AndreySilvaa">
