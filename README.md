@@ -1,7 +1,8 @@
 ## Olá, eu sou AndreySilvaa 👋
 
 - 📚💻 Estudando React.js
-- 🌐 Busco colaborar com a comunidade de desenvolvimento web 
+- 🌐 Busco colaborar com a comunidade de desenvolvimento web
+- https://www.codewars.com/users/Andrey%20Silva/badges/micro
 
 <div align="center">
   <a href="https://github.com/AndreySilvaa">
