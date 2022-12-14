@@ -1,6 +1,6 @@
 ## Olá, eu sou AndreySilvaa 👋
 
-- 📚💻 Estudando React.js
+- 📚💻 Estudando React.js e TypeScript
 - 🌐 Busco colaborar com a comunidade de desenvolvimento web
 
  [![Profile badge](https://www.codewars.com/users/Andrey%20Silva/badges/large)](https://www.codewars.com/users/Andrey%20Silva)
